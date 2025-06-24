@@ -1,0 +1,9 @@
+youtube-transcript-api
+langchain-community
+langchain-groq
+langchain-nomic
+faiss-cpu
+tiktoken
+python-dotenv
+groq
+gradio
